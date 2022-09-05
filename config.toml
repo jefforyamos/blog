@@ -1,0 +1,4 @@
+baseURL = 'http://wardsoft.net/'
+languageCode = 'en-us'
+title = 'Opinions'
+theme = "ananke"
