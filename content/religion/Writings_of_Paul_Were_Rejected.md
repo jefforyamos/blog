@@ -2,7 +2,7 @@
 title: "Writings of Paul originally rejected by Jerusalem leadership"
 date: 2022-09-05T19:17:32-05:00
 draft: false
-tags: []
+tags: [Religion]
 featured_image: ""
 description: "Most people don't realize it, but the leaders of the Jerusalem church did have endorsed writings and declined to endorse Paul's doctrine and epistles."
 bible: true
