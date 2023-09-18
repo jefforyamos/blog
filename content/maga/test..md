@@ -1,6 +1,6 @@
 ---
 date: "2022-09-05T11:10:20-05:00"
-draft: true
+draft: false
 title: Trump is Still Your President
 tags: [MAGA, Trump, Election Fraud]
 featured_image: ""
