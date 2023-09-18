@@ -1,11 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 tags: []
 featured_image: ""
 description: ""
-bible: true
+bible: false
 bibleversion: "ERV"
 ---
 
