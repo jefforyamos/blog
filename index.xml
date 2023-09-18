@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rants and Raves on Jeff Ward Rants and Raves</title>
+    <link>http://wardsoft.net/</link>
+    <description>Recent content in Rants and Raves on Jeff Ward Rants and Raves</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2022 19:17:32 -0500</lastBuildDate><atom:link href="http://wardsoft.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writings of Paul originally rejected by Jerusalem leadership</title>
+      <link>http://wardsoft.net/religion/writings_of_paul_were_rejected/</link>
+      <pubDate>Mon, 05 Sep 2022 19:17:32 -0500</pubDate>
+      
+      <guid>http://wardsoft.net/religion/writings_of_paul_were_rejected/</guid>
+      <description>Did the original church have official endorsed writings?
+Sadly, the answer by most preachers is &amp;ldquo;no&amp;rdquo;. They will recount that &amp;ldquo;canon of scripture&amp;rdquo; was established much later. However, there was an early document that received endorsement, but often does not get the recognition it deserves. The history of this document exists today in your own bible for anyone who cares to look.
+The Council at Jerusalem A meeting took place between Paul and the Jerusalem church in approximately 50 A.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://wardsoft.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wardsoft.net/about/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://wardsoft.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wardsoft.net/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required. Message </description>
+    </item>
+    
+  </channel>
+</rss>
