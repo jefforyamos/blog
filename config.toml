@@ -1,4 +1,4 @@
-baseURL = 'https://jefforyamos.github.io'
+baseURL = 'https://jefforyamos.github.io/blog/'
 languageCode = 'en-us'
 title = 'Jeff Ward Rants and Raves'
 theme = "ananke"
