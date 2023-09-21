@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-tags: []
+tags: [Crypto,Corruption,Religion,Music,MAGA]
 featured_image: ""
 description: ""
 bible: false
