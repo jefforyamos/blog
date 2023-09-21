@@ -9,7 +9,7 @@ bible: false
 bibleversion: "ERV"
 ---
 
-Is Joe Biden really in charge?  Or is something very historic taking place?  I personally believe we are currently in a state of military continuity of government state. This documentary explains how we got there.
+Is Joe Biden really in charge?  Or is something very historic taking place?  I personally believe we are currently in a state of military continuity-of-government. I believe we have reason to be very very exicted.This documentary explains how we got there.
 
 There are two ways to watch this video.
 
