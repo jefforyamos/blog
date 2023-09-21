@@ -6,7 +6,17 @@
     <description>Recent content in Rants and Raves on Jeff Ward Rants and Raves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Sep 2023 20:11:25 -0500</lastBuildDate><atom:link href="https://jefforyamos.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 12:57:40 -0500</lastBuildDate><atom:link href="https://jefforyamos.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>State of Tennessee is persecuting property owners</title>
+      <link>https://jefforyamos.github.io/blog/post/tn-off-grid-persecution/</link>
+      <pubDate>Thu, 21 Sep 2023 12:57:40 -0500</pubDate>
+      
+      <guid>https://jefforyamos.github.io/blog/post/tn-off-grid-persecution/</guid>
+      <description>This couple, Matt and Cass are simply exercising their God-given rights, but liberals can&amp;rsquo;t stand it when you&amp;rsquo;re independent of their control and truly free.
+Tennessee obviously has too much money at it&amp;rsquo;s disposal. It has started the persecution tactics exercised in tyrannical states like New York or Massachusets. We obviously need fewer government employees to harass people like these who only want to be left alone in their little cabin on their own property.</description>
+    </item>
+    
     <item>
       <title>Capitulation Video</title>
       <link>https://jefforyamos.github.io/blog/post/capitulation-video/</link>
@@ -45,7 +55,8 @@ The Council at Jerusalem A meeting took place between Paul and the Jerusalem chu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jefforyamos.github.io/blog/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
+      <description>Illustration from Victor Hugo et son temps (1881) This is a blog I have created to throw a few thoughts out there and also to experiment with a few technology tools:
+Created with Hugo. Saved on Github Publishes changes upon check-in to Github Pages Publish kicked-off at check-in via Github Actions. Uses the Ananke theme. Added custom support for highlighting bible references from Blue Letter Bible. Added ability to render Mermaid Diagrams.</description>
     </item>
     
     <item>
@@ -54,7 +65,7 @@ The Council at Jerusalem A meeting took place between Paul and the Jerusalem chu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jefforyamos.github.io/blog/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+      <description>Not currently supported. Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required. Message </description>
     </item>
     
