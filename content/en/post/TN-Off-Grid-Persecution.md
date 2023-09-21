@@ -3,7 +3,7 @@ title: "State of Tennessee is persecuting property owners"
 date: 2023-09-21T12:57:40-05:00
 draft: false
 tags: [Corruption,MAGA]
-featured_image: "images/Property-Rights.jpeg"
+featured_image: "post/Property-Rights.jpeg"
 description: "The state of Tennessee is persecuting people who are are pursuing their Constitutional right to property."
 bible: false
 bibleversion: "ERV"
