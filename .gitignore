@@ -17,4 +17,8 @@ bin-release/
 # Hugo
 public/
 
-# Backup Files
+# Build lock for hugo
+.hugo_build.lock
+
+# Hugo temp area
+resources
