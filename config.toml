@@ -37,8 +37,9 @@ enableRobotsTXT = true
   recent_posts_number = 3
 
 [[params.ananke_socials]]
-# name = "twitter"
-# url = "https://twitter.com/GoHugoIO"
+  name = "twitter"
+  url = "https://twitter.com/JeffWard_TN"
 
-  name = "facebook"
-  url = "https://www.facebook.com/jeff.ward.14/"
+[[params.ananke_socials]]
+   name = "facebook"
+   url = "https://www.facebook.com/jeff.ward.14/"
