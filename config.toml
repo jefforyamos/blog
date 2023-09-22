@@ -43,3 +43,9 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
    name = "facebook"
    url = "https://www.facebook.com/jeff.ward.14/"
+   follow = true
+
+[[params.ananke_socials]]
+  name = "github"
+  url = "https://github.com/jefforyamos"
+   
