@@ -1,7 +1,7 @@
 ---
 title: "Was Paul a Fundraiser?"
 date: 2025-08-17T14:36:03-05:00
-draft: true
+draft: false
 tags: [Religion]
 featured_image: ""
 description: "Was Paul actually raising and delegating significant amounts of funding like an evangelist today does? Or was he poor as a potbelly stove?"

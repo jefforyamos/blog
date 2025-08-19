@@ -1,7 +1,7 @@
 ---
 title: "Why does Paul practice fund-raising?"
 date: 2025-08-17T19:17:30-05:00
-draft: true
+draft: false
 tags: [Religion]
 featured_image: ""
 description: "Why does Paul practice fund raising like a TV evangelist when Jesus prohibits it?  Why was there one set of rules for twelve apostles, and another set of rules for the self-appointed thirteenth one?"
