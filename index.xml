@@ -6,7 +6,17 @@
     <description>Recent content in Rants and Raves on Jeff Ward Rants and Raves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2024 12:08:19 -0500</lastBuildDate><atom:link href="https://jefforyamos.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Aug 2025 12:05:17 -0500</lastBuildDate><atom:link href="https://jefforyamos.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recommendations</title>
+      <link>https://jefforyamos.github.io/blog/questions/recommendations/</link>
+      <pubDate>Mon, 18 Aug 2025 12:05:17 -0500</pubDate>
+      
+      <guid>https://jefforyamos.github.io/blog/questions/recommendations/</guid>
+      <description>These are somewhat random articles I&amp;rsquo;ve &amp;ldquo;put to paper&amp;rdquo; as I think of them. I&amp;rsquo;m human, I don&amp;rsquo;t profess any divine empowerment. These questions are constructed from my own study with a hope of enlightenment my own prayer. I recommend you question everything, and that includes me. (yeah, I know, I don&amp;rsquo;t have the contact page working yet&amp;hellip;sorry).
+I&amp;rsquo;m creating these articles as &amp;ldquo;single conversation sized&amp;rdquo; bites. I anticipate this being a collection that grows over time.</description>
+    </item>
+    
     <item>
       <title>Sanity Declaration - please join me</title>
       <link>https://jefforyamos.github.io/blog/post/sanity-declaration/</link>
@@ -74,7 +84,7 @@ Created with Hugo. Saved on Github Publishes changes upon check-in to Github Pag
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jefforyamos.github.io/blog/contact/</guid>
-      <description>Not currently supported. Check out Formspree for a simple, free form service.
+      <description>Not currently supported Check out Formspree for a simple, free form service.
 Your Name Email Address An email address is required. Message </description>
     </item>
     
