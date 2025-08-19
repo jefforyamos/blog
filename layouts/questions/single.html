@@ -1,6 +1,5 @@
 {{ define "header" }}
    {{/* We can override any block in the baseof file be defining it in the template */}}
-  <h1>Where is this?</h1>
   {{ partial "page-header.html" . }}
 {{ end }}
 
@@ -66,7 +65,7 @@
     <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
       {{- .Content -}}
       <div style="font-size:larger;font-weight: bolder;">
-      {{- .Description -}}
+        🙋❓ {{- .Description -}}
       </div>
       {{- partial "tags.html" . -}}
       <div class="mt6 instapaper_ignoref">

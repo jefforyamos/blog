@@ -8,8 +8,8 @@ menu: main
 
 ---
 
-## Not currently supported.
+## Not currently supported
 
-Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Check out [Formspree](https://formspree.io/) for a simple, free form service.
 
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="<https://example.com>"  >}}

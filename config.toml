@@ -8,6 +8,7 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+enableEmoji = true
 
 [languages]
   [languages.en]
@@ -15,6 +16,7 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
+    enableEmoji = true
 
   #[languages.fr]
   #  title = "Ananke Fr"
@@ -28,7 +30,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Jeff Ward"
   favicon = ""
   site_logo = ""
   description = "I may be hot, I may be cold, but lukewarm I'm not."
