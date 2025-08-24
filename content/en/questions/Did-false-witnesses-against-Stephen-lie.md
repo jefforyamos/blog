@@ -47,7 +47,7 @@ Not all combinations of these three answers make sense:
 The table below summarizes the problems in resolving this question. Examine one column at a time, presuming whether you think the witnesses really lied or not.
 
 | Issue               | Witnesses Lied **YES** | Witnesses Lied **NO**  |
-|---------------------|---------------------|-------------------|
+|---------------------|:---------------------:|:-------------------:|
 | Did Stephen actually speak of physical destruction of temple? | No, falsely accused. He considered the prophecy metaphorical about Jesus body. | Yes, just as accused, just like Christianity, fulfilled in 70 AD.
 | Did Stephen actually advocate putting aside the Law of Moses? | No, falsely accused. He upheld the Law. | Yes, just like Christianity, he saw it as "bondage", a "curse", a "schoolmaster" that is "against us".
 | Stephen's true opinion agrees with orthodox Christianity? | **NO** | **YES** 
