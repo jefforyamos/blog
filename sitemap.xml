@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jefforyamos.github.io/blog/bsfl/2025-09-14-the-greatest-need/</loc>
-    <lastmod>2025-09-13T15:58:58-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-13T15:58:58-05:00</lastmod>
+    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/religion/</loc>
-    <lastmod>2025-09-13T15:58:58-05:00</lastmod>
+    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/obey-readings-from-moses-seat/</loc>
+    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/bsfl/2025-09-14-the-greatest-need/</loc>
     <lastmod>2025-09-13T15:58:58-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
