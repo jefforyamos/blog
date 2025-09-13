@@ -63,3 +63,4 @@ I despise the TV evangelists for the same reasons you do. However, I think they 
 Paul made it clear in Romans 16:25 that his "my gospel" spiritual merchandise was kept **secret** from everyone else. It is the *revelation of a mystery*, and you know how we all love mysteries! He had no competitors, not even those in Jerusalem. Galatians 1:15-17. Ephesians 3. 
 
 The quarterly acknowledges the merchandise of the economy. They focus like Paul primarily on generosity of monetary wealth while concluding, "The riches we enjoy are spiritual in nature".
+
