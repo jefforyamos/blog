@@ -23,9 +23,9 @@ Most Christians will allege those promises expired when the last original apostl
 
 Let's look closer at the expiration theory. What happens **right before** the *snake handling* clause?
 
-> And he said to them, “Go into all the world and proclaim the gospel to the whole creation. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
+> And he said to them, “**Go into all the world and proclaim the gospel** to the whole creation. Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
 
-Is there any Christian anywhere that believes that verse above has expired?  I don't know of any.
+Is there any Christian anywhere that believes **The Great Commission** above has **expired?**  I don't know of any.
 
 And what is said immediately after that clause?
 
@@ -39,7 +39,7 @@ If we claim:
 
 ...the same logic might lead also to:
 
-> "They did the miracles in the first century so we won't have to." 
+> "They did the miracles in the first century so we won't have to."
 
 Is that *really* a satisfactory answer?
 

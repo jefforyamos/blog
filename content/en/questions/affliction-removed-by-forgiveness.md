@@ -26,4 +26,6 @@ A veteran rolls his wheelchair down the aisle, a small quilt covering the stumps
 
 He looks searchingly.  "When do you get to the part about taking up my chair and walking?"
 
-According to Mark 16:17-18, "those who believe" *should* be able to accommodate this poor guy. I'm quite sure anyone who could fix his situation would be thrilled to do so.
+According to Mark 16:17-18, "those who believe" *should* be able to accommodate this poor guy. I'm quite sure anyone who could fix his situation would be thrilled and willing to do so.
+
+Many will explain this part "expired" with the passing of the last apostle. However, the [Expiration Theory creates more questions than it answers](./../who-picks-expiration-dates).
