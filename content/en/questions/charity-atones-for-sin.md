@@ -22,4 +22,3 @@ According to Yehovah, charity and righteousness atone for sin.
 - Proverbs 21:3 - superior to blood sacrifice in His eyes
 - Hosea 6:6 - what he really desires
 - Daniel 4:27 - Lengthens prosperity
-
