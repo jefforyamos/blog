@@ -2,17 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
+    <loc>https://jefforyamos.github.io/blog/bsfl/2025-09-21-the-greatest-sin/</loc>
+    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/religion/</loc>
-    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
+    <loc>https://jefforyamos.github.io/blog/tags/demons/</loc>
+    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/jesus/</loc>
+    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/pharisees/</loc>
+    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/</loc>
+    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/religion/</loc>
     <lastmod>2025-09-13T18:20:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
