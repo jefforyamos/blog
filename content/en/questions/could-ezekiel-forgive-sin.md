@@ -2,7 +2,7 @@
 title: "Could Ezekiel Forgive Sin?"
 date: 2025-09-13T13:29:59-05:00
 draft: false
-tags: [Religion]
+tags: [Forgiveness,Christology,Sin]
 featured_image: ""
 description: "Was God mistaken when he called Ezekiel Son of Man? Could Ezekiel forgive sins as Jesus claims?"
 bible: true

@@ -2,7 +2,7 @@
 title: "Affliction Removed by Forgiveness"
 date: 2025-09-13T12:24:14-05:00
 draft: false
-tags: [Religion]
+tags: [Forgiveness,Sin]
 featured_image: ""
 description: "Jesus illustrated forgiveness of sin caused healing. Does that no longer work in ways that could be verified?"
 bible: true

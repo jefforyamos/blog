@@ -2,7 +2,7 @@
 title: "2025 09 14 the Greatest Need"
 date: 2025-09-13T15:58:58-05:00
 draft: false
-tags: [Religion]
+tags: [Paralytic,Forgiveness,Pharisees]
 featured_image: ""
 description: "Only Jesus can take care of our need for forgiveness. Luke 5:17-26."
 bible: true

@@ -2,7 +2,7 @@
 title: "Why did Jesus say obey what's read from Moses' seat?"
 date: 2025-09-13T18:20:54-05:00
 draft: false
-tags: [Religion]
+tags: [Christianity,Torah]
 featured_image: ""
 description: "If Jesus came to 'get rid of the law' as Christianity claims, then why does he tell people to OBEY it?"
 bible: true

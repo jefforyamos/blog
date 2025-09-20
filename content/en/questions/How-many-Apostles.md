@@ -2,7 +2,7 @@
 title: "How Many Apostles?"
 date: 2025-08-19T23:02:44-05:00
 draft: false
-tags: [Religion,Paul]
+tags: [Paul,Apostles]
 featured_image: ""
 description: "On the twelve foundations in heaven, whose name occupies the twelve-spot? Mathias as selected by the twelve? Or Paul as selected by 'Christ' in the spirit world, who communicates his appointment exclusively to him?"
 bible: true

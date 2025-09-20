@@ -2,7 +2,7 @@
 title: "Did False Witnesses Against Stephen Lie?"
 date: 2025-08-19T17:41:35-05:00
 draft: false
-tags: [Religion]
+tags: [Canon]
 featured_image: ""
 description: "Did our “false witnesses” speak truth and Stephen had the same opinions as modern Christians?  Or did our “false witnesses” tell a lie and Stephen’s position was opposite from modern Christianity?"
 bible: true

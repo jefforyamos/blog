@@ -2,7 +2,7 @@
 title: "2025 08 24 Generosity"
 date: 2025-08-23T11:23:34-05:00
 draft: false
-tags: [Religion]
+tags: [Generosity,Charity]
 featured_image: ""
 description: "Generosity - God's generous grace moves us to be generous.  2 Corinthians 8:1-9"
 bible: true

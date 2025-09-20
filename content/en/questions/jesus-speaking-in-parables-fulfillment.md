@@ -2,7 +2,7 @@
 title: "Jesus Speaking in Parables Fulfillment"
 date: 2025-09-06T18:46:15-05:00
 draft: true
-tags: [Religion]
+tags: [Fulfillment,Christianity]
 featured_image: ""
 description: "If Jesus fulfilled Psalm 78 like Matthew says, then why are almost all Christian doctrines the opposite of Psalm 78? Why does Matthew insist the prophecy imposed secrecy when God commanded it freely broadcast?"
 bible: true

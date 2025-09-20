@@ -2,7 +2,7 @@
 title: "Why did Jesus affirm someone afflicted has sin that caused it?"
 date: 2025-09-13T11:24:44-05:00
 draft: false
-tags: [Religion]
+tags: [Forgiveness,Sin]
 featured_image: ""
 description: "Why do we find God disputing an automatic relationship between sin and affliction, punishing those that promote it, yet Jesus affirming an automatic relationship?"
 bible: true

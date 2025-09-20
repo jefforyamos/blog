@@ -2,7 +2,7 @@
 title: "Paralytic sins forgiven with no repentance?"
 date: 2025-09-13T15:22:44-05:00
 draft: false
-tags: [Religion]
+tags: [Paralytic,Forgiveness,Repentance]
 featured_image: ""
 description: "Why is the concept of repentance completely removed from the healing of the paralytic story? Why is a sin egregious enough to cause paralysis not identified so it can be avoided?"
 bible: true

@@ -2,7 +2,7 @@
 title: "Are Councils Really Divine?"
 date: 2025-09-06T16:34:42-05:00
 draft: true
-tags: [Religion]
+tags: [Canon,Inspiration]
 featured_image: ""
 description: "If the religious councils were tasked with defining 'canon of scripture', allegedly while 'inspired', then why did they take hundreds of years to declare it? Why did they make mistakes they had to correct later? Is the Holy Spirit error-prone? Does the Holy Spirit change his mind?"
 bible: true
