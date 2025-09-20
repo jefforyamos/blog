@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jefforyamos.github.io/blog/tags/charity/</loc>
+    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/forgiveness/</loc>
+    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/</loc>
+    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/sin/</loc>
+    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/charity-atones-for-sin/</loc>
+    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/blood/</loc>
+    <lastmod>2025-09-20T15:59:30-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/paralytic/</loc>
+    <lastmod>2025-09-20T15:59:30-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/paralytic-where-is-shed-blood/</loc>
+    <lastmod>2025-09-20T15:59:30-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/bsfl/2025-09-21-the-greatest-sin/</loc>
     <lastmod>2025-09-20T12:34:07-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -22,17 +67,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
+    <loc>https://jefforyamos.github.io/blog/tags/christianity/</loc>
+    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/</loc>
-    <lastmod>2025-09-20T12:34:07-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/religion/</loc>
+    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
     <lastmod>2025-09-13T18:20:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -49,6 +89,16 @@
   </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/paralytic-repentence-missing/</loc>
     <lastmod>2025-09-13T15:22:44-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/repentance/</loc>
+    <lastmod>2025-09-13T15:22:44-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/christology/</loc>
+    <lastmod>2025-09-13T13:29:59-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -82,6 +132,16 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/generosity/</loc>
+    <lastmod>2025-08-23T11:23:34-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/apostles/</loc>
+    <lastmod>2025-08-19T23:02:44-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/how-many-apostles/</loc>
     <lastmod>2025-08-19T23:02:44-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -92,6 +152,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/canon/</loc>
+    <lastmod>2025-08-19T17:41:35-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/did-false-witnesses-against-stephen-lie/</loc>
     <lastmod>2025-08-19T17:41:35-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -99,6 +164,16 @@
   </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/recommendations/</loc>
     <lastmod>2025-08-18T12:05:17-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/religion/</loc>
+    <lastmod>2025-08-18T12:05:17-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/money/</loc>
+    <lastmod>2025-08-17T19:17:30-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
