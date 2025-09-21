@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jefforyamos.github.io/blog/questions/fourth-commandment-rejected/</loc>
+    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/</loc>
+    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/sabbaths/</loc>
+    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
+    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/sabbath-sign-rejected/</loc>
+    <lastmod>2025-09-21T07:12:53-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/charity/</loc>
     <lastmod>2025-09-20T16:34:47-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,17 +42,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/sin/</loc>
-    <lastmod>2025-09-20T16:34:47-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/</loc>
     <lastmod>2025-09-20T16:34:47-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -68,11 +88,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/christianity/</loc>
-    <lastmod>2025-09-13T18:20:54-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
     <lastmod>2025-09-13T18:20:54-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
