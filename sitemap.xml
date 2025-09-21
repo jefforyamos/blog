@@ -2,27 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jefforyamos.github.io/blog/tags/paul/</loc>
+    <lastmod>2025-09-21T16:20:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/</loc>
+    <lastmod>2025-09-21T16:20:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/out-of-bondage/</loc>
+    <lastmod>2025-09-21T16:20:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-21T16:20:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
+    <lastmod>2025-09-21T16:20:25-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/fourth-commandment-rejected/</loc>
     <lastmod>2025-09-21T07:35:22-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/sabbaths/</loc>
-    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/</loc>
-    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
     <lastmod>2025-09-21T07:35:22-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -158,11 +168,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/how-many-apostles/</loc>
-    <lastmod>2025-08-19T23:02:44-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/paul/</loc>
     <lastmod>2025-08-19T23:02:44-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
