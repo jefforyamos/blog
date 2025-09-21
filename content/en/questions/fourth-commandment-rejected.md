@@ -1,5 +1,5 @@
 ---
-title: "Christianity accepts nine of the 'Ten Commandments'"
+title: "Does Christianity really believe in the 'Ten Commandments'?"
 date: 2025-09-21T07:35:22-05:00
 draft: false
 tags: [Sabbaths,Torah]
