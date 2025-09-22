@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jefforyamos.github.io/blog/tags/paul/</loc>
-    <lastmod>2025-09-21T19:45:44-05:00</lastmod>
+    <loc>https://jefforyamos.github.io/blog/questions/greater-exodus-prophecy/</loc>
+    <lastmod>2025-09-21T20:52:28-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/prophecy/</loc>
+    <lastmod>2025-09-21T20:52:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-21T19:45:44-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/salvation/</loc>
-    <lastmod>2025-09-21T19:45:44-05:00</lastmod>
+    <lastmod>2025-09-21T20:52:28-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-21T20:52:28-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/paul-unknown-prophecy-reference/</loc>
+    <lastmod>2025-09-21T20:28:36-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/paul/</loc>
+    <lastmod>2025-09-21T20:28:36-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/salvation/</loc>
     <lastmod>2025-09-21T19:45:44-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
