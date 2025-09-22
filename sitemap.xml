@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jefforyamos.github.io/blog/</loc>
+    <lastmod>2025-09-22T12:02:32-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/sabbaths/</loc>
+    <lastmod>2025-09-22T12:02:32-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/synagogue-instead-of-church/</loc>
+    <lastmod>2025-09-22T12:02:32-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-09-22T12:02:32-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/breaking-bread-monday/</loc>
+    <lastmod>2025-09-21T22:33:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/sabbath/</loc>
+    <lastmod>2025-09-21T22:33:22-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/questions/worshipping-jesus/</loc>
+    <lastmod>2025-09-21T21:56:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/worship/</loc>
+    <lastmod>2025-09-21T21:56:24-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/no-teaching-in-new-covenant/</loc>
     <lastmod>2025-09-21T21:11:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/covenant/</loc>
-    <lastmod>2025-09-21T21:11:14-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-21T21:11:14-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/</loc>
     <lastmod>2025-09-21T21:11:14-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -78,11 +108,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/fourth-commandment-rejected/</loc>
-    <lastmod>2025-09-21T07:35:22-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/sabbaths/</loc>
     <lastmod>2025-09-21T07:35:22-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
