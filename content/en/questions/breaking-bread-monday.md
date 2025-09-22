@@ -1,5 +1,5 @@
 ---
-title: "Doctrines about breaking bread"
+title: "Hypocrisy in Sunday doctrines"
 date: 2025-09-21T22:33:22-05:00
 draft: false
 tags: [Sabbath]
