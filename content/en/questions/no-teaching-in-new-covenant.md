@@ -21,4 +21,6 @@ Therefore, the following things suggest very strongly that Christianity is not a
 - Christianity insists that righteous Jesus died on behalf of sinners which violates Jer 31:30.
 - The "Great Commission" prescribes evangelizing that will not be necessary in the new covenant according to Jer 31:34.
 - The existence of Sunday School suggests teaching about God is still deemed necessary, thus missing what is also described in Jer 31:34.
-- Though the "old covenant" was indeed declared broken in Jeremiah 31:32, there is no mention of a replacement of God's laws.  A covenant is an agreement. There is no hint that "my law" declared in Jer 31:33 is a replacement law. It suggests only the same law with a more effective deployment. 
+- Though the "old covenant" was indeed declared broken in Jeremiah 31:32, there is no mention of a replacement of God's laws.  A covenant is an agreement. There is no hint that "my law" declared in Jer 31:33 is a replacement law. It suggests only the same law with a more effective deployment.
+
+(Side note: Even greater problems are found when comparing with the [earliest disclosure](./../new-covenant-originates-deu-30) of the new covenant.)
