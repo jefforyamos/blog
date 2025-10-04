@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jefforyamos.github.io/blog/questions/did-jesus-veto-god-regarding-food/</loc>
+    <lastmod>2025-10-03T15:58:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/</loc>
+    <lastmod>2025-10-03T15:58:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/</loc>
+    <lastmod>2025-10-03T15:58:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
+    <lastmod>2025-10-03T15:58:07-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/paul/</loc>
     <lastmod>2025-09-29T21:07:43-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,17 +32,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://jefforyamos.github.io/blog/</loc>
-    <lastmod>2025-09-29T21:07:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://jefforyamos.github.io/blog/tags/salvation/</loc>
-    <lastmod>2025-09-29T21:07:43-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/</loc>
     <lastmod>2025-09-29T21:07:43-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -78,11 +88,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://jefforyamos.github.io/blog/questions/day-of-lord-remember-moses/</loc>
-    <lastmod>2025-09-24T13:16:55-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://jefforyamos.github.io/blog/tags/torah/</loc>
     <lastmod>2025-09-24T13:16:55-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
