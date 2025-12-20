@@ -18,6 +18,16 @@
       <h1 class="f1 athelas mt3 mb1">
         {{- .Title -}}
       </h1>
+      {{ if .Params.point }}
+        <h2 class="f3 athelas mt2 md1">
+          The Point: {{ .Params.point }}
+        </h2>
+      {{ end }}
+      {{ if .Params.passage }}
+        <h2 class="f3 athelas mt2 md1">
+          The Passage: {{ .Params.passage }}
+        </h2>
+      {{ end }}
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
         {{ $.Render "by" }} <strong>
@@ -78,12 +88,13 @@
     <aside class="w-30-l mt6-l">
       {{- partial "menu-contextual.html" . -}}
     </aside>
+ 
 
     <script type="module">
       import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
       mermaid.initialize({ startOnLoad: true });
     </script>
- 
+
   </article>
   
   
