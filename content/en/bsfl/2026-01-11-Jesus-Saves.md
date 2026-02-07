@@ -19,15 +19,27 @@ I'm going to start with the handout Greg sent by email which will be the focus o
 
 In a world where various religious groups seek their own interpretations of salvation, and many individuals question its necessity, even the most self-absorbed among us occasionally sense an emptiness, a yearning for something deeper. 
 
-> Of course "religious groups seek their own interpretations of salvations". There are a variety.
-> 1. Jesus says eternal life is found by keeping the law and selling all you have in Luke 18:18.
-> 2. Paul says "confess with your mouth" and "believe" in Romans 10:9 with no emphasis on baptism whatsoever.
-> 3. The Roman jailer asked how to be saved in Acts 16:30-34 and he was told in verse 31 "believe..and shall be saved", but he was very quickly baptized, so it's unapparent whether the baptism was pivotal.
-> 4. In Romans 11:26, Paul insists "all Israel shall be saved" without saying how that took place given they don't generally accept Jesus or get baptized.
-> 5. In 1 Corinthians 5:5, certain people experience "spirit may be saved" later by "delivering such one to Satan for the destruction of the flesh" now.
-> 6. In Revelation 20:11-15, salvation comes from the presence of your name in a book. The criteria for such inclusion is not discussed.
+> Most would be relieved to have *just one solid answer* defining *exactly what salvation is*. Of course "religious groups seek their own interpretations of salvations"! Naturally they do! They did back then. From the text the first century believers left is, there are a variety of choices, all hotly debated, both then and now.
 
-> So yes, I'm quite sure **many** have *their own interpretation of salvation*. How could you expect them not to?
+> 1. Jesus says eternal life is found by keeping the law and selling all you have in Luke 18:18.
+
+> 2. Paul says "confess with your mouth" and "believe" in Romans 10:9 with no emphasis on baptism whatsoever.
+
+> 3. The Roman jailer asked how to be saved in Acts 16:30-34 and he was told in verse 31 "believe..and shall be saved", but he was very quickly baptized, so it's unapparent whether the baptism was pivotal.
+
+> 4. In Romans 11:26, Paul insists "all Israel shall be saved" without saying how that took place given they don't generally accept Jesus or get baptized.
+
+> 5. In 1 Corinthians 5:5, certain people experience "spirit may be saved" later by "delivering such one to Satan for the destruction of the flesh" now. "Boys, looks like we're gonna have to build a fire!" 
+
+> 6. In Revelation 20:11-15, salvation comes from the presence of your name in a book. The criteria for such inclusion is debated. 
+> - Paul says in Philipians 4:3, that inclusion is a reward from being a "fellowlabourer". 
+> - John, in Revelation 3:1-5 says this entry can be lost and is "not blotted out" if you have "perfect works before God" and have "not defiled their garments" and "overcometh" obstacles.
+
+> 7. Jesus in John 6:53-58 said, "Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day."
+
+> So yes, I'm quite sure **many** have *their own interpretation of salvation*. How could you expect them not to? Many flee to the "do all of the above" safe ground. But still, each denoomination has their own favorite verses, and their not-so-favorite verses. But the NT text itself has a smorgasbord of alternatives to choose from, and **everybody** feels compelled to reconcile their *non-favorites* according to their *favorites*, so they can preserve *canon of scripture*, and *sola-scriptura* and all those human traditions Jesus and his apostles never knew about. Oh, the passionate fights at Thanksgiving, the envy of the gladiators! 
+
+> Interestingly, the least favorite seems to be the one offered by Jesus to the "rich young ruler" in item #1. The consensus seems to be Jesus was "testing him" by giving him an untrue answer. 
 
 That longing points to the profound truth that "something more" is found in Jesus Christ. We are called to recognize our need for salvation, and when we turn to Him—the only source of true redemption—we discover the fulfillment and purpose we've been missing. 
 
@@ -35,7 +47,9 @@ That longing points to the profound truth that "something more" is found in Jesu
 
 In Jerusalem, during Pentecost, a crowd gathered, drawn from various nations and cultures.
 
-> Yes, they were observing the "holy convocation", or annual Sabbath commanded in Leviticus 23:15-21. This Sabbath always occurred on the first day of the week, Sunday, once per year, because the way the counting was done.
+> Various nations and cultures? Why? 
+
+> Yes, those that followed Yehovah and his Torah were observing the "holy convocation", or annual Sabbath commanded in Leviticus 23:15-21. This Sabbath always occurred on the first day of the week, Sunday, once per year, because the way the counting was done. 50 days after any Saturday is a Sunday. But this one Sunday is always a Sabbath. Why would various nations and cultures be there on that date specifically? Only one nation and one culture are commanded in Torah to be there.
 
 The disciples, empowered by the Holy Spirit, boldly proclaimed the message of Jesus Christ. 
 
@@ -47,7 +61,7 @@ Peter stood among them, his voice ringing out, reminding people of the miraculou
 
 > - Repentance is not new. Hopefully that's well established fact. 
 > - Ritual washing is not new, especially in connection with worship and being clean in or near the temple. In Hebrew, it's called [**mikvah**](https://share.google/aimode/jWCdLWHNhbW0J30Ep), and it's mentioned in Leviticus 11:36, Leviticus 15, and Leviticus 18:19.
-> - Getting the Holy Spirit like this was not new, but had happened previously according to John 20:22. It begs the question of the permanence of this. They had received it merely weeks earlier, why did they need it again? Was it like your second covid vaccine, you just need both and the reason is mysterious? Or does it wear off with time like the glow on Moses' face did?
+> - Getting the Holy Spirit like this was not new, but had happened previously according to John 20:22. It begs the question of the permanence of this. They had received it merely weeks earlier, why did they need it again? Was it like your second covid vaccine, you just need both, and only Bill Gates knows the mysterious reason why? Or does it wear off with time like the glow on Moses' face did? I don't remember anyone thinking Moses was drunk after his encounter. Hmmmm...the deep mysteries, if only Paul was here to 'splain them!
 
 #### Passages: Acts 2:22-24 
 
@@ -57,7 +71,7 @@ This passage highlights Jesus as the Messiah, whose life, death, and resurrectio
 
 - How did you first come to know about Jesus and His teachings? 
 
-> Like many, I learned it in a picture book in my mother's lap.
+> Like many, I learned it in a picture book in my mother's lap. Later, Sunday School and Church.
 
 - How would you summarize the essence of the Gospel as presented in these verses, capturing its core message and significance?
 
